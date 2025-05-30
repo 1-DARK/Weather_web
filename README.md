@@ -54,12 +54,6 @@ A responsive weather application built using **HTML**, **CSS**, and **Vanilla Ja
    - Enter a city name and click "Get Weather"
 
 ---
-ssage
-  function showerror() {
-    // Display error UI
-  }
-});
-```
 
 ## ⚠️ Error Handling
 
