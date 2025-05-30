@@ -1,6 +1,6 @@
 # ☀️ Weather App - README
 
-![Weather App Preview](https://via.placeholder.com/800x500/1e1e1e/ffffff?text=Weather+App+Interface)
+
 
 A responsive weather application built using **HTML**, **CSS**, and **Vanilla JavaScript** that fetches real-time weather data from the OpenWeatherMap API. Features a clean dark-themed UI with responsive design.
 
